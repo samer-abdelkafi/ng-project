@@ -5,11 +5,11 @@ insert into users (first_name, family_name, login, password, e_mail, phone, lang
 insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('Larry', 'Page', 'larry', 'page', 'larry.page@gmail.com', '0033 1 23 45 67 89', 'en', true);
 insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('Sergey', 'Brin', 'sergey', 'brin', 'sergey.brin@gmail.com', '0033 1 23 45 67 89', 'en', true);
 insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('Larry', 'ELLISON', 'larry2', 'ellison', 'larry.ellison@oracle.com', '0033 1 23 45 67 89', 'en', true);
-insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('Jeff', 'BEZOS', 'jeff', 'BEZOS', 'user7@maycompany.com', '0033 1 23 45 67 89', 'en', true);
-insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('user8Name', 'user8Family', 'user8', 'user8', 'user8@maycompany.com', '0033 1 23 45 67 89', 'en', true);
-insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('user9Name', 'user9Family', 'user9', 'user9', 'user9@maycompany.com', '0033 1 23 45 67 89', 'en', true);
-insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('user10Name', 'user10Family', 'user10', 'user10', 'user10@maycompany.com', '0033 1 23 45 67 89', 'en', true);
-insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('user11Name', 'user11Family', 'user11', 'user11', 'user11@maycompany.com', '0033 1 23 45 67 89', 'en', true);
+insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('Jeff', 'BEZOS', 'jeff', 'bezos', 'jeff.bezos@amazon.com', '0033 1 23 45 67 89', 'en', true);
+insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('Paul', 'ALLEN', 'paul', 'allen', 'paul.allen@microsoft.com', '0033 1 23 45 67 89', 'en', true);
+insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('Steve', 'BALLMER', 'steve2', 'ballmer', 'steve.ballmer@microsoft.com', '0033 1 23 45 67 89', 'en', true);
+insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('Jack', 'DORSEY', 'jack', 'dorsey', 'jack.dorsey@twitter.com', '0033 1 23 45 67 89', 'en', true);
+insert into users (first_name, family_name, login, password, e_mail, phone, language, enabled) values ('Matt', 'MULLENWEG', 'matt', 'mullenweg', 'matt.mullenweg@wordpress.com', '0033 1 23 45 67 89', 'en', true);
 
 insert into authority (name) values ('admin');
 insert into authority (name) values ('technical user');
