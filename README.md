@@ -1,3 +1,6 @@
+
+[![Coverage Status](https://coveralls.io/repos/samer-abdelkafi/ng-project/badge.svg?branch=master&service=github)](https://coveralls.io/github/samer-abdelkafi/ng-project?branch=master)
+
 # ng-project
 
 This is a sample project for starting using AngularJS with Spring MVC.
