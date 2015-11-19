@@ -15,4 +15,4 @@ A demo is available at this link <a target="_blank" href="http://tomcat7-samerab
 <h2>Deployment</h2>
 This project uses servlet 3 API. Check if your application server or your servlet container supports servlet 3 spec. 
 
-For Tomcat you can have this information in this link: <a href="tomcat.apache.org/whichversion" > tomcat.apache.org/whichversion </a> 
+For Tomcat you can have this information in this link: <a href="http://tomcat.apache.org/whichversion" > tomcat.apache.org/whichversion </a> 
